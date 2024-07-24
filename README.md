@@ -14,6 +14,7 @@
 # HA du réseau
 
 - nano /etc/keeaplived/keepalived.conf
+- systemctl status keepalived
 
 # HA du stockage
 
