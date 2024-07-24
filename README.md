@@ -46,3 +46,7 @@ Mot de passe : KWYx&8qmoxcfljC(BK
 - docker stack rm monitoring
 
 FQDN : grp8.prometheus.courses.studalya.net
+
+# Problème
+
+- Image cAdvisor : gcr.io/cadvisor/cadvisor
