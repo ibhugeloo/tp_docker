@@ -47,6 +47,6 @@ Mot de passe : KWYx&8qmoxcfljC(BK
 
 FQDN : grp8.prometheus.courses.studalya.net
 
-# Problème
+# Problèmes
 
 - Image cAdvisor : gcr.io/cadvisor/cadvisor
