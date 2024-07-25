@@ -14,3 +14,11 @@ scrape_configs:
   - job_name: 'prometheus'
     static_configs:
       - targets: ['localhost:9090']
+
+  - job_name: 'cadvisor'
+    static_configs:
+      - targets:
+          - '172.20.107.120:8800'
+          - '172.20.107.121:8800'
+          - '172.20.107.122:8800'
+
