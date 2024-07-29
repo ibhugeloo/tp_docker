@@ -49,4 +49,5 @@ FQDN : grp8.prometheus.courses.studalya.net
 
 # Problèmes
 
-- Image cAdvisor : gcr.io/cadvisor/cadvisor
+- Utilisez cette image cAdvisor et non celle de Google : gcr.io/cadvisor/cadvisor
+- Pull limitez sur docker bloque le déploiement de la stack
