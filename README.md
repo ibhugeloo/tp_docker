@@ -23,7 +23,6 @@ Lien vers docs avec capture : https://docs.google.com/document/d/11d1vbObKsK-oaL
 - cd /mnt/mysql
 - cd /mnt/wp-content
 - cd /mnt/prometheus
-
 - gluster pool list
 - systemctl status glusterd
 
